@@ -1,0 +1,14 @@
+C:\HaniFiles\ASP.net\HandsOnLinq\bin\Debug\net8.0\HandsOnLinq.exe
+C:\HaniFiles\ASP.net\HandsOnLinq\bin\Debug\net8.0\HandsOnLinq.deps.json
+C:\HaniFiles\ASP.net\HandsOnLinq\bin\Debug\net8.0\HandsOnLinq.runtimeconfig.json
+C:\HaniFiles\ASP.net\HandsOnLinq\bin\Debug\net8.0\HandsOnLinq.dll
+C:\HaniFiles\ASP.net\HandsOnLinq\bin\Debug\net8.0\HandsOnLinq.pdb
+C:\HaniFiles\ASP.net\HandsOnLinq\obj\Debug\net8.0\HandsOnLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\ASP.net\HandsOnLinq\obj\Debug\net8.0\HandsOnLinq.AssemblyInfoInputs.cache
+C:\HaniFiles\ASP.net\HandsOnLinq\obj\Debug\net8.0\HandsOnLinq.AssemblyInfo.cs
+C:\HaniFiles\ASP.net\HandsOnLinq\obj\Debug\net8.0\HandsOnLinq.csproj.CoreCompileInputs.cache
+C:\HaniFiles\ASP.net\HandsOnLinq\obj\Debug\net8.0\HandsOnLinq.dll
+C:\HaniFiles\ASP.net\HandsOnLinq\obj\Debug\net8.0\refint\HandsOnLinq.dll
+C:\HaniFiles\ASP.net\HandsOnLinq\obj\Debug\net8.0\HandsOnLinq.pdb
+C:\HaniFiles\ASP.net\HandsOnLinq\obj\Debug\net8.0\HandsOnLinq.genruntimeconfig.cache
+C:\HaniFiles\ASP.net\HandsOnLinq\obj\Debug\net8.0\ref\HandsOnLinq.dll

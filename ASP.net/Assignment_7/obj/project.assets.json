@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HaniFiles\\ASP.net\\Assignment_7\\Assignment_7.csproj",
+      "projectUniqueName": "C:\\RMs\\RM_Stytem_Hani\\ASP.net\\Assignment_7\\Assignment_7.csproj",
       "projectName": "Assignment_7",
-      "projectPath": "C:\\HaniFiles\\ASP.net\\Assignment_7\\Assignment_7.csproj",
+      "projectPath": "C:\\RMs\\RM_Stytem_Hani\\ASP.net\\Assignment_7\\Assignment_7.csproj",
       "packagesPath": "C:\\Users\\halziya\\.nuget\\packages\\",
-      "outputPath": "C:\\HaniFiles\\ASP.net\\Assignment_7\\obj\\",
+      "outputPath": "C:\\RMs\\RM_Stytem_Hani\\ASP.net\\Assignment_7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\halziya\\AppData\\Roaming\\NuGet\\NuGet.Config",

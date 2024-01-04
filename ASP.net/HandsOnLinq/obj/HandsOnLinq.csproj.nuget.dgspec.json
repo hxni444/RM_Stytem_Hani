@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RMs\\RM_Stytem_Hani\\ASP.net\\Assignment_7\\Assignment_7.csproj": {}
+    "C:\\HaniFiles\\ASP.net\\HandsOnLinq\\HandsOnLinq.csproj": {}
   },
   "projects": {
-    "C:\\RMs\\RM_Stytem_Hani\\ASP.net\\Assignment_7\\Assignment_7.csproj": {
+    "C:\\HaniFiles\\ASP.net\\HandsOnLinq\\HandsOnLinq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RMs\\RM_Stytem_Hani\\ASP.net\\Assignment_7\\Assignment_7.csproj",
-        "projectName": "Assignment_7",
-        "projectPath": "C:\\RMs\\RM_Stytem_Hani\\ASP.net\\Assignment_7\\Assignment_7.csproj",
+        "projectUniqueName": "C:\\HaniFiles\\ASP.net\\HandsOnLinq\\HandsOnLinq.csproj",
+        "projectName": "HandsOnLinq",
+        "projectPath": "C:\\HaniFiles\\ASP.net\\HandsOnLinq\\HandsOnLinq.csproj",
         "packagesPath": "C:\\Users\\halziya\\.nuget\\packages\\",
-        "outputPath": "C:\\RMs\\RM_Stytem_Hani\\ASP.net\\Assignment_7\\obj\\",
+        "outputPath": "C:\\HaniFiles\\ASP.net\\HandsOnLinq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halziya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -57,9 +51,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
