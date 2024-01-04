@@ -1,0 +1,14 @@
+C:\HaniFiles\ASP.net\Depemdecy Injection\obj\Debug\net8.0\Depemdecy Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\ASP.net\Depemdecy Injection\obj\Debug\net8.0\Depemdecy Injection.AssemblyInfoInputs.cache
+C:\HaniFiles\ASP.net\Depemdecy Injection\obj\Debug\net8.0\Depemdecy Injection.AssemblyInfo.cs
+C:\HaniFiles\ASP.net\Depemdecy Injection\obj\Debug\net8.0\Depemdecy Injection.csproj.CoreCompileInputs.cache
+C:\HaniFiles\ASP.net\Depemdecy Injection\bin\Debug\net8.0\Depemdecy Injection.exe
+C:\HaniFiles\ASP.net\Depemdecy Injection\bin\Debug\net8.0\Depemdecy Injection.deps.json
+C:\HaniFiles\ASP.net\Depemdecy Injection\bin\Debug\net8.0\Depemdecy Injection.runtimeconfig.json
+C:\HaniFiles\ASP.net\Depemdecy Injection\bin\Debug\net8.0\Depemdecy Injection.dll
+C:\HaniFiles\ASP.net\Depemdecy Injection\bin\Debug\net8.0\Depemdecy Injection.pdb
+C:\HaniFiles\ASP.net\Depemdecy Injection\obj\Debug\net8.0\Depemdecy Injection.dll
+C:\HaniFiles\ASP.net\Depemdecy Injection\obj\Debug\net8.0\refint\Depemdecy Injection.dll
+C:\HaniFiles\ASP.net\Depemdecy Injection\obj\Debug\net8.0\Depemdecy Injection.pdb
+C:\HaniFiles\ASP.net\Depemdecy Injection\obj\Debug\net8.0\Depemdecy Injection.genruntimeconfig.cache
+C:\HaniFiles\ASP.net\Depemdecy Injection\obj\Debug\net8.0\ref\Depemdecy Injection.dll
