@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.exe
+C:\HaniFiles\c#\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.deps.json
+C:\HaniFiles\c#\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.runtimeconfig.json
+C:\HaniFiles\c#\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.dll
+C:\HaniFiles\c#\HandsOnGenericCollection\bin\Debug\net8.0\HandsOnGenericCollection.pdb
+C:\HaniFiles\c#\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.AssemblyInfo.cs
+C:\HaniFiles\c#\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.dll
+C:\HaniFiles\c#\HandsOnGenericCollection\obj\Debug\net8.0\refint\HandsOnGenericCollection.dll
+C:\HaniFiles\c#\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.pdb
+C:\HaniFiles\c#\HandsOnGenericCollection\obj\Debug\net8.0\HandsOnGenericCollection.genruntimeconfig.cache
+C:\HaniFiles\c#\HandsOnGenericCollection\obj\Debug\net8.0\ref\HandsOnGenericCollection.dll

@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\HandsOnExpception\bin\Debug\net8.0\HandsOnExpception.exe
+C:\HaniFiles\c#\HandsOnExpception\bin\Debug\net8.0\HandsOnExpception.deps.json
+C:\HaniFiles\c#\HandsOnExpception\bin\Debug\net8.0\HandsOnExpception.runtimeconfig.json
+C:\HaniFiles\c#\HandsOnExpception\bin\Debug\net8.0\HandsOnExpception.dll
+C:\HaniFiles\c#\HandsOnExpception\bin\Debug\net8.0\HandsOnExpception.pdb
+C:\HaniFiles\c#\HandsOnExpception\obj\Debug\net8.0\HandsOnExpception.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\HandsOnExpception\obj\Debug\net8.0\HandsOnExpception.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\HandsOnExpception\obj\Debug\net8.0\HandsOnExpception.AssemblyInfo.cs
+C:\HaniFiles\c#\HandsOnExpception\obj\Debug\net8.0\HandsOnExpception.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\HandsOnExpception\obj\Debug\net8.0\HandsOnExpception.dll
+C:\HaniFiles\c#\HandsOnExpception\obj\Debug\net8.0\refint\HandsOnExpception.dll
+C:\HaniFiles\c#\HandsOnExpception\obj\Debug\net8.0\HandsOnExpception.pdb
+C:\HaniFiles\c#\HandsOnExpception\obj\Debug\net8.0\HandsOnExpception.genruntimeconfig.cache
+C:\HaniFiles\c#\HandsOnExpception\obj\Debug\net8.0\ref\HandsOnExpception.dll

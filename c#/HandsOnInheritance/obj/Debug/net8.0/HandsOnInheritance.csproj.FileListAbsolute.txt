@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.exe
+C:\HaniFiles\c#\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.deps.json
+C:\HaniFiles\c#\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.runtimeconfig.json
+C:\HaniFiles\c#\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.dll
+C:\HaniFiles\c#\HandsOnInheritance\bin\Debug\net8.0\HandsOnInheritance.pdb
+C:\HaniFiles\c#\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.AssemblyInfo.cs
+C:\HaniFiles\c#\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.dll
+C:\HaniFiles\c#\HandsOnInheritance\obj\Debug\net8.0\refint\HandsOnInheritance.dll
+C:\HaniFiles\c#\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.pdb
+C:\HaniFiles\c#\HandsOnInheritance\obj\Debug\net8.0\HandsOnInheritance.genruntimeconfig.cache
+C:\HaniFiles\c#\HandsOnInheritance\obj\Debug\net8.0\ref\HandsOnInheritance.dll

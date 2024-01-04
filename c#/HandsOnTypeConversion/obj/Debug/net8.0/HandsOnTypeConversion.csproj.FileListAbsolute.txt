@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.exe
+C:\HaniFiles\c#\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.deps.json
+C:\HaniFiles\c#\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.runtimeconfig.json
+C:\HaniFiles\c#\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.dll
+C:\HaniFiles\c#\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.pdb
+C:\HaniFiles\c#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.AssemblyInfo.cs
+C:\HaniFiles\c#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.dll
+C:\HaniFiles\c#\HandsOnTypeConversion\obj\Debug\net8.0\refint\HandsOnTypeConversion.dll
+C:\HaniFiles\c#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.pdb
+C:\HaniFiles\c#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.genruntimeconfig.cache
+C:\HaniFiles\c#\HandsOnTypeConversion\obj\Debug\net8.0\ref\HandsOnTypeConversion.dll

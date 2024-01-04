@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\assesment1\obj\Debug\net8.0\assesment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\assesment1\obj\Debug\net8.0\assesment1.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\assesment1\obj\Debug\net8.0\assesment1.AssemblyInfo.cs
+C:\HaniFiles\c#\assesment1\obj\Debug\net8.0\assesment1.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\assesment1\bin\Debug\net8.0\assesment1.exe
+C:\HaniFiles\c#\assesment1\bin\Debug\net8.0\assesment1.deps.json
+C:\HaniFiles\c#\assesment1\bin\Debug\net8.0\assesment1.runtimeconfig.json
+C:\HaniFiles\c#\assesment1\bin\Debug\net8.0\assesment1.dll
+C:\HaniFiles\c#\assesment1\bin\Debug\net8.0\assesment1.pdb
+C:\HaniFiles\c#\assesment1\obj\Debug\net8.0\assesment1.dll
+C:\HaniFiles\c#\assesment1\obj\Debug\net8.0\refint\assesment1.dll
+C:\HaniFiles\c#\assesment1\obj\Debug\net8.0\assesment1.pdb
+C:\HaniFiles\c#\assesment1\obj\Debug\net8.0\assesment1.genruntimeconfig.cache
+C:\HaniFiles\c#\assesment1\obj\Debug\net8.0\ref\assesment1.dll

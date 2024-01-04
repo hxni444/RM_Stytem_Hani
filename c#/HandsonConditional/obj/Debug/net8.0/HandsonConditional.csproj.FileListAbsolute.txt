@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\HandsonConditional\bin\Debug\net8.0\HandsonConditional.exe
+C:\HaniFiles\c#\HandsonConditional\bin\Debug\net8.0\HandsonConditional.deps.json
+C:\HaniFiles\c#\HandsonConditional\bin\Debug\net8.0\HandsonConditional.runtimeconfig.json
+C:\HaniFiles\c#\HandsonConditional\bin\Debug\net8.0\HandsonConditional.dll
+C:\HaniFiles\c#\HandsonConditional\bin\Debug\net8.0\HandsonConditional.pdb
+C:\HaniFiles\c#\HandsonConditional\obj\Debug\net8.0\HandsonConditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\HandsonConditional\obj\Debug\net8.0\HandsonConditional.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\HandsonConditional\obj\Debug\net8.0\HandsonConditional.AssemblyInfo.cs
+C:\HaniFiles\c#\HandsonConditional\obj\Debug\net8.0\HandsonConditional.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\HandsonConditional\obj\Debug\net8.0\HandsonConditional.dll
+C:\HaniFiles\c#\HandsonConditional\obj\Debug\net8.0\refint\HandsonConditional.dll
+C:\HaniFiles\c#\HandsonConditional\obj\Debug\net8.0\HandsonConditional.pdb
+C:\HaniFiles\c#\HandsonConditional\obj\Debug\net8.0\HandsonConditional.genruntimeconfig.cache
+C:\HaniFiles\c#\HandsonConditional\obj\Debug\net8.0\ref\HandsonConditional.dll

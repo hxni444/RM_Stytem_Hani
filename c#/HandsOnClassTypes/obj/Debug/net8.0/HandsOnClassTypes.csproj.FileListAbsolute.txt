@@ -1,0 +1,4 @@
+C:\HaniFiles\c#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.AssemblyInfo.cs
+C:\HaniFiles\c#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.csproj.CoreCompileInputs.cache

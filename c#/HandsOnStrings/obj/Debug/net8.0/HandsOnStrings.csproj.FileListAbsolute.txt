@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\HandsOnStrings\bin\Debug\net8.0\HandsOnStrings.exe
+C:\HaniFiles\c#\HandsOnStrings\bin\Debug\net8.0\HandsOnStrings.deps.json
+C:\HaniFiles\c#\HandsOnStrings\bin\Debug\net8.0\HandsOnStrings.runtimeconfig.json
+C:\HaniFiles\c#\HandsOnStrings\bin\Debug\net8.0\HandsOnStrings.dll
+C:\HaniFiles\c#\HandsOnStrings\bin\Debug\net8.0\HandsOnStrings.pdb
+C:\HaniFiles\c#\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.AssemblyInfo.cs
+C:\HaniFiles\c#\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.dll
+C:\HaniFiles\c#\HandsOnStrings\obj\Debug\net8.0\refint\HandsOnStrings.dll
+C:\HaniFiles\c#\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.pdb
+C:\HaniFiles\c#\HandsOnStrings\obj\Debug\net8.0\HandsOnStrings.genruntimeconfig.cache
+C:\HaniFiles\c#\HandsOnStrings\obj\Debug\net8.0\ref\HandsOnStrings.dll

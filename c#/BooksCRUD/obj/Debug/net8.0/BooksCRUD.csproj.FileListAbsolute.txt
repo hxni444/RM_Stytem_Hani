@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\BooksCRUD\obj\Debug\net8.0\BooksCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\BooksCRUD\obj\Debug\net8.0\BooksCRUD.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\BooksCRUD\obj\Debug\net8.0\BooksCRUD.AssemblyInfo.cs
+C:\HaniFiles\c#\BooksCRUD\obj\Debug\net8.0\BooksCRUD.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\BooksCRUD\bin\Debug\net8.0\BooksCRUD.exe
+C:\HaniFiles\c#\BooksCRUD\bin\Debug\net8.0\BooksCRUD.deps.json
+C:\HaniFiles\c#\BooksCRUD\bin\Debug\net8.0\BooksCRUD.runtimeconfig.json
+C:\HaniFiles\c#\BooksCRUD\bin\Debug\net8.0\BooksCRUD.dll
+C:\HaniFiles\c#\BooksCRUD\bin\Debug\net8.0\BooksCRUD.pdb
+C:\HaniFiles\c#\BooksCRUD\obj\Debug\net8.0\BooksCRUD.dll
+C:\HaniFiles\c#\BooksCRUD\obj\Debug\net8.0\refint\BooksCRUD.dll
+C:\HaniFiles\c#\BooksCRUD\obj\Debug\net8.0\BooksCRUD.pdb
+C:\HaniFiles\c#\BooksCRUD\obj\Debug\net8.0\BooksCRUD.genruntimeconfig.cache
+C:\HaniFiles\c#\BooksCRUD\obj\Debug\net8.0\ref\BooksCRUD.dll

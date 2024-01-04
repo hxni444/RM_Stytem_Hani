@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\Assignmnets\bin\Debug\net8.0\Assignmnets.exe
+C:\HaniFiles\c#\Assignmnets\bin\Debug\net8.0\Assignmnets.deps.json
+C:\HaniFiles\c#\Assignmnets\bin\Debug\net8.0\Assignmnets.runtimeconfig.json
+C:\HaniFiles\c#\Assignmnets\bin\Debug\net8.0\Assignmnets.dll
+C:\HaniFiles\c#\Assignmnets\bin\Debug\net8.0\Assignmnets.pdb
+C:\HaniFiles\c#\Assignmnets\obj\Debug\net8.0\Assignmnets.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\Assignmnets\obj\Debug\net8.0\Assignmnets.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\Assignmnets\obj\Debug\net8.0\Assignmnets.AssemblyInfo.cs
+C:\HaniFiles\c#\Assignmnets\obj\Debug\net8.0\Assignmnets.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\Assignmnets\obj\Debug\net8.0\Assignmnets.dll
+C:\HaniFiles\c#\Assignmnets\obj\Debug\net8.0\refint\Assignmnets.dll
+C:\HaniFiles\c#\Assignmnets\obj\Debug\net8.0\Assignmnets.pdb
+C:\HaniFiles\c#\Assignmnets\obj\Debug\net8.0\Assignmnets.genruntimeconfig.cache
+C:\HaniFiles\c#\Assignmnets\obj\Debug\net8.0\ref\Assignmnets.dll

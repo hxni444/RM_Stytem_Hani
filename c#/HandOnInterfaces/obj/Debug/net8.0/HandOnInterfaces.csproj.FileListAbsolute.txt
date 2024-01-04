@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\HandOnInterfaces\bin\Debug\net8.0\HandOnInterfaces.exe
+C:\HaniFiles\c#\HandOnInterfaces\bin\Debug\net8.0\HandOnInterfaces.deps.json
+C:\HaniFiles\c#\HandOnInterfaces\bin\Debug\net8.0\HandOnInterfaces.runtimeconfig.json
+C:\HaniFiles\c#\HandOnInterfaces\bin\Debug\net8.0\HandOnInterfaces.dll
+C:\HaniFiles\c#\HandOnInterfaces\bin\Debug\net8.0\HandOnInterfaces.pdb
+C:\HaniFiles\c#\HandOnInterfaces\obj\Debug\net8.0\HandOnInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\HandOnInterfaces\obj\Debug\net8.0\HandOnInterfaces.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\HandOnInterfaces\obj\Debug\net8.0\HandOnInterfaces.AssemblyInfo.cs
+C:\HaniFiles\c#\HandOnInterfaces\obj\Debug\net8.0\HandOnInterfaces.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\HandOnInterfaces\obj\Debug\net8.0\HandOnInterfaces.dll
+C:\HaniFiles\c#\HandOnInterfaces\obj\Debug\net8.0\refint\HandOnInterfaces.dll
+C:\HaniFiles\c#\HandOnInterfaces\obj\Debug\net8.0\HandOnInterfaces.pdb
+C:\HaniFiles\c#\HandOnInterfaces\obj\Debug\net8.0\HandOnInterfaces.genruntimeconfig.cache
+C:\HaniFiles\c#\HandOnInterfaces\obj\Debug\net8.0\ref\HandOnInterfaces.dll

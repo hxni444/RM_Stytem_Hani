@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.exe
+C:\HaniFiles\c#\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.deps.json
+C:\HaniFiles\c#\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.runtimeconfig.json
+C:\HaniFiles\c#\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.dll
+C:\HaniFiles\c#\HandsOnArrays\bin\Debug\net8.0\HandsOnArrays.pdb
+C:\HaniFiles\c#\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.AssemblyInfo.cs
+C:\HaniFiles\c#\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.dll
+C:\HaniFiles\c#\HandsOnArrays\obj\Debug\net8.0\refint\HandsOnArrays.dll
+C:\HaniFiles\c#\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.pdb
+C:\HaniFiles\c#\HandsOnArrays\obj\Debug\net8.0\HandsOnArrays.genruntimeconfig.cache
+C:\HaniFiles\c#\HandsOnArrays\obj\Debug\net8.0\ref\HandsOnArrays.dll

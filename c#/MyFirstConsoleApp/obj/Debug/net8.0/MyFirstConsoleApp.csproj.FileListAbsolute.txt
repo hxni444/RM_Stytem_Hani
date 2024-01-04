@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+C:\HaniFiles\c#\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+C:\HaniFiles\c#\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+C:\HaniFiles\c#\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+C:\HaniFiles\c#\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\HaniFiles\c#\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\HaniFiles\c#\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+C:\HaniFiles\c#\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+C:\HaniFiles\c#\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\HaniFiles\c#\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\HaniFiles\c#\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll

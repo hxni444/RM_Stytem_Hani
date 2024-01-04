@@ -1,0 +1,14 @@
+C:\HaniFiles\c#\HandsOnNonGenericCollection\bin\Debug\net8.0\HandsOnNonGenericCollection.exe
+C:\HaniFiles\c#\HandsOnNonGenericCollection\bin\Debug\net8.0\HandsOnNonGenericCollection.deps.json
+C:\HaniFiles\c#\HandsOnNonGenericCollection\bin\Debug\net8.0\HandsOnNonGenericCollection.runtimeconfig.json
+C:\HaniFiles\c#\HandsOnNonGenericCollection\bin\Debug\net8.0\HandsOnNonGenericCollection.dll
+C:\HaniFiles\c#\HandsOnNonGenericCollection\bin\Debug\net8.0\HandsOnNonGenericCollection.pdb
+C:\HaniFiles\c#\HandsOnNonGenericCollection\obj\Debug\net8.0\HandsOnNonGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\HaniFiles\c#\HandsOnNonGenericCollection\obj\Debug\net8.0\HandsOnNonGenericCollection.AssemblyInfoInputs.cache
+C:\HaniFiles\c#\HandsOnNonGenericCollection\obj\Debug\net8.0\HandsOnNonGenericCollection.AssemblyInfo.cs
+C:\HaniFiles\c#\HandsOnNonGenericCollection\obj\Debug\net8.0\HandsOnNonGenericCollection.csproj.CoreCompileInputs.cache
+C:\HaniFiles\c#\HandsOnNonGenericCollection\obj\Debug\net8.0\HandsOnNonGenericCollection.dll
+C:\HaniFiles\c#\HandsOnNonGenericCollection\obj\Debug\net8.0\refint\HandsOnNonGenericCollection.dll
+C:\HaniFiles\c#\HandsOnNonGenericCollection\obj\Debug\net8.0\HandsOnNonGenericCollection.pdb
+C:\HaniFiles\c#\HandsOnNonGenericCollection\obj\Debug\net8.0\HandsOnNonGenericCollection.genruntimeconfig.cache
+C:\HaniFiles\c#\HandsOnNonGenericCollection\obj\Debug\net8.0\ref\HandsOnNonGenericCollection.dll
