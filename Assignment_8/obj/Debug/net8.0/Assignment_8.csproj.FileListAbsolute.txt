@@ -1,0 +1,14 @@
+C:\ceesharp\Assignment_8\obj\Debug\net8.0\Assignment_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\ceesharp\Assignment_8\obj\Debug\net8.0\Assignment_8.AssemblyInfoInputs.cache
+C:\ceesharp\Assignment_8\obj\Debug\net8.0\Assignment_8.AssemblyInfo.cs
+C:\ceesharp\Assignment_8\obj\Debug\net8.0\Assignment_8.csproj.CoreCompileInputs.cache
+C:\ceesharp\Assignment_8\bin\Debug\net8.0\Assignment_8.exe
+C:\ceesharp\Assignment_8\bin\Debug\net8.0\Assignment_8.deps.json
+C:\ceesharp\Assignment_8\bin\Debug\net8.0\Assignment_8.runtimeconfig.json
+C:\ceesharp\Assignment_8\bin\Debug\net8.0\Assignment_8.dll
+C:\ceesharp\Assignment_8\bin\Debug\net8.0\Assignment_8.pdb
+C:\ceesharp\Assignment_8\obj\Debug\net8.0\Assignment_8.dll
+C:\ceesharp\Assignment_8\obj\Debug\net8.0\refint\Assignment_8.dll
+C:\ceesharp\Assignment_8\obj\Debug\net8.0\Assignment_8.pdb
+C:\ceesharp\Assignment_8\obj\Debug\net8.0\Assignment_8.genruntimeconfig.cache
+C:\ceesharp\Assignment_8\obj\Debug\net8.0\ref\Assignment_8.dll
