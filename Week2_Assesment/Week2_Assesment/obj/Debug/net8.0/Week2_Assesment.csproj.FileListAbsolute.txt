@@ -30,3 +30,36 @@ C:\Hani files\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\refint\Week2_Asse
 C:\Hani files\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.pdb
 C:\Hani files\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.genruntimeconfig.cache
 C:\Hani files\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\ref\Week2_Assesment.dll
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\appsettings.Development.json
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\appsettings.json
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\Week2_Assesment.exe
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\Week2_Assesment.deps.json
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\Week2_Assesment.runtimeconfig.json
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\Week2_Assesment.dll
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\Week2_Assesment.pdb
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.csproj.AssemblyReference.cache
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.AssemblyInfoInputs.cache
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.AssemblyInfo.cs
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.csproj.CoreCompileInputs.cache
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.MvcApplicationPartsAssemblyInfo.cs
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.MvcApplicationPartsAssemblyInfo.cache
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.sourcelink.json
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\staticwebassets.build.json
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\staticwebassets.development.json
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\staticwebassets\msbuild.Week2_Assesment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\staticwebassets\msbuild.build.Week2_Assesment.props
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Week2_Assesment.props
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Week2_Assesment.props
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\scopedcss\bundle\Week2_Assesment.styles.css
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.csproj.CopyComplete
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.dll
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\refint\Week2_Assesment.dll
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.pdb
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\Week2_Assesment.genruntimeconfig.cache
+C:\ceesharp\RM_Stytem_Hani\Week2_Assesment\Week2_Assesment\obj\Debug\net8.0\ref\Week2_Assesment.dll
