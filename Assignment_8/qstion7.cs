@@ -22,22 +22,36 @@ namespace Assignment_8
             };
 
 
-            string qtyck = orders.Where(o => o.quantity <= 0).Select(o => o.item_name).FirstOrDefault();
+          //  var qtyck = orders.Where(o => o.quantity <= 0).Select(o => o.item_name).SingleOrDefault
+            var qtcky = (from o in orders
+                        where o.quantity<= 0
+                        select o.item_name).SingleOrDefault();
 
-            if(qtyck != null)
+            if(qtcky != null)
             {
-                Console.WriteLine("There is no item in "+ qtyck +"item");
+                Console.WriteLine("There is no item in "+ qtcky + " item");
 
             }
 
-            var MQty = orders.Max(o => o.quantity);
-            var nQty = orders.Where(o => o.quantity == MQty).Select(o => o.item_name).First();
-            Console.WriteLine("item with higer qty is "+nQty);
+            // var MQty = orders.Max(o => o.quantity);
+            var MaxQty = (from o in orders
+                        orderby o.quantity descending
+                        select o.quantity).First();
 
-           DateTime x = DateTime.Now;
-            var orderdate = orders.Where(o => o.order_date.Year < x.Year && x.Month < 1);
+           // var nQty = orders.Where(o => o.quantity == MQty).Select(o => o.item_name).First();
+           var ItmWithMaxQty = (from o in orders
+                                where o.quantity == MaxQty
+                                select o.item_name).SingleOrDefault();
 
-            if(orderdate != null)
+            Console.WriteLine("item with higer qty is "+ItmWithMaxQty);
+
+            DateTime x = DateTime.Now;
+           // var orderdate = orders.Where(o => o.order_date.Year < x.Year && x.Month < 1);
+           var orderdate = from o in orders
+                           where o.order_date.Year == x.Year&& x.Month<1
+                           select o;
+
+            if (orderdate != null)
             {
                 Console.WriteLine("There is  order'(s) before this jan");
             }

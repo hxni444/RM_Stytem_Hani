@@ -12,3 +12,18 @@ C:\ceesharp\Assignment_8\obj\Debug\net8.0\refint\Assignment_8.dll
 C:\ceesharp\Assignment_8\obj\Debug\net8.0\Assignment_8.pdb
 C:\ceesharp\Assignment_8\obj\Debug\net8.0\Assignment_8.genruntimeconfig.cache
 C:\ceesharp\Assignment_8\obj\Debug\net8.0\ref\Assignment_8.dll
+C:\Hani files\RM_Stytem_Hani\Assignment_8\bin\Debug\net8.0\Assignment_8.exe
+C:\Hani files\RM_Stytem_Hani\Assignment_8\bin\Debug\net8.0\Assignment_8.deps.json
+C:\Hani files\RM_Stytem_Hani\Assignment_8\bin\Debug\net8.0\Assignment_8.runtimeconfig.json
+C:\Hani files\RM_Stytem_Hani\Assignment_8\bin\Debug\net8.0\Assignment_8.dll
+C:\Hani files\RM_Stytem_Hani\Assignment_8\bin\Debug\net8.0\Assignment_8.pdb
+C:\Hani files\RM_Stytem_Hani\Assignment_8\obj\Debug\net8.0\Assignment_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hani files\RM_Stytem_Hani\Assignment_8\obj\Debug\net8.0\Assignment_8.AssemblyInfoInputs.cache
+C:\Hani files\RM_Stytem_Hani\Assignment_8\obj\Debug\net8.0\Assignment_8.AssemblyInfo.cs
+C:\Hani files\RM_Stytem_Hani\Assignment_8\obj\Debug\net8.0\Assignment_8.csproj.CoreCompileInputs.cache
+C:\Hani files\RM_Stytem_Hani\Assignment_8\obj\Debug\net8.0\Assignment_8.sourcelink.json
+C:\Hani files\RM_Stytem_Hani\Assignment_8\obj\Debug\net8.0\Assignment_8.dll
+C:\Hani files\RM_Stytem_Hani\Assignment_8\obj\Debug\net8.0\refint\Assignment_8.dll
+C:\Hani files\RM_Stytem_Hani\Assignment_8\obj\Debug\net8.0\Assignment_8.pdb
+C:\Hani files\RM_Stytem_Hani\Assignment_8\obj\Debug\net8.0\Assignment_8.genruntimeconfig.cache
+C:\Hani files\RM_Stytem_Hani\Assignment_8\obj\Debug\net8.0\ref\Assignment_8.dll
