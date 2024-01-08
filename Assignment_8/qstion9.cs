@@ -10,18 +10,17 @@ namespace Assignment_8
     {
         public static void Main()
         {
-            int[] arra = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, };
+            int[] arry = { 1, 2, 3, 4, 5, 6, 7, 8, };
+            var data = from i in arry
+                       where i % 2 != 0
+                       select i;
 
-            var EvnNum = arra.Where(n => n % 2 != 0).Select(n => n);
-            var EvnNumc = arra.Where(n => n % 2 != 0).Select(n => n);
-
-            Console.WriteLine(EvnNumc);
-            foreach ( var i in EvnNum )
+            foreach (var i in data)
             {
-                
                 Console.WriteLine(i);
             }
-
+           
+            Console.WriteLine("NUmber of odd is " +data.Count());
         }
     }
 }

@@ -22,34 +22,33 @@ namespace Assignment_8
             };
 
 
-          //  var qtyck = orders.Where(o => o.quantity <= 0).Select(o => o.item_name).SingleOrDefault
+            // string qtyck = orders.Where(o => o.quantity <= 0).Select(o => o.item_name).FirstOrDefault();
+
             var qtcky = (from o in orders
-                        where o.quantity<= 0
-                        select o.item_name).SingleOrDefault();
+                         where o.quantity <= 0
+                         select o.item_name).SingleOrDefault();
 
             if(qtcky != null)
             {
-                Console.WriteLine("There is no item in "+ qtcky + " item");
+                Console.WriteLine("There is no item in "+ qtcky );
 
             }
 
             // var MQty = orders.Max(o => o.quantity);
-            var MaxQty = (from o in orders
+            //var nQty = orders.Where(o => o.quantity == MQty).Select(o => o.item_name).First();
+
+            var MQty = (from o in orders
                         orderby o.quantity descending
-                        select o.quantity).First();
+                        select o.item_name).First();
+           
 
-           // var nQty = orders.Where(o => o.quantity == MQty).Select(o => o.item_name).First();
-           var ItmWithMaxQty = (from o in orders
-                                where o.quantity == MaxQty
-                                select o.item_name).SingleOrDefault();
+            Console.WriteLine("item with higer qty is " + MQty);
 
-            Console.WriteLine("item with higer qty is "+ItmWithMaxQty);
-
-            DateTime x = DateTime.Now;
-           // var orderdate = orders.Where(o => o.order_date.Year < x.Year && x.Month < 1);
-           var orderdate = from o in orders
-                           where o.order_date.Year == x.Year&& x.Month<1
-                           select o;
+           DateTime x = DateTime.Now;
+            //var orderdate = orders.Where(o => o.order_date.Year < x.Year && x.Month < 1);
+            var orderdate = from o in orders
+                            where o.order_date.Year < x.Year && x.Month < 1
+                            select o;
 
             if (orderdate != null)
             {

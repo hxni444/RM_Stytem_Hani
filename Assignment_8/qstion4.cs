@@ -13,25 +13,23 @@ namespace Assignment_8
             List<Order> ord = new List<Order>
             {
                 new Order(456, "mobile", new DateTime(2023, 2, 3), 5),
-                new Order(456, "mobile", new DateTime(2023, 8, 2), 10),
-                new Order(456, "mobile", new DateTime(2023, 6, 23), 8),
-                new Order(456, "mobile", new DateTime(2023, 12, 14), 6),
+                new Order(152, "ipod", new DateTime(2023, 8, 2), 10),
+                new Order(1351, "tablet", new DateTime(2023, 6, 23), 8),
+                new Order(1211, "fan", new DateTime(2023, 12, 14), 6),
 
             };
 
-            var ods = from l in ord
-                      orderby l.order_date
-                      group l by l.order_date.Month;
-
-            foreach (var o in ods)
+            var data = from o in ord
+                       orderby o.order_date descending
+                       group o by o.order_date.Month;
+            foreach( var k in data)
             {
-                Console.Write(o.Key + " ");
-                foreach (var item in o)
+                Console.Write(k.Key+ " ");
+                foreach(var j in k)
                 {
-                    Console.WriteLine(item.item_name);
+                    Console.WriteLine($"{j.order_id} {j.item_name}");
                 }
             }
-                      
         }
     }
 }
