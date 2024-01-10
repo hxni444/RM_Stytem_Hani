@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hani files\\RM_Stytem_Hani\\Assignment_8\\Assignment_8.csproj": {}
+    "C:\\Hani files\\Assignment_10\\Assignment_10\\Assignment_10.csproj": {}
   },
   "projects": {
-    "C:\\Hani files\\RM_Stytem_Hani\\Assignment_8\\Assignment_8.csproj": {
+    "C:\\Hani files\\Assignment_10\\Assignment_10\\Assignment_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hani files\\RM_Stytem_Hani\\Assignment_8\\Assignment_8.csproj",
-        "projectName": "Assignment_8",
-        "projectPath": "C:\\Hani files\\RM_Stytem_Hani\\Assignment_8\\Assignment_8.csproj",
+        "projectUniqueName": "C:\\Hani files\\Assignment_10\\Assignment_10\\Assignment_10.csproj",
+        "projectName": "Assignment_10",
+        "projectPath": "C:\\Hani files\\Assignment_10\\Assignment_10\\Assignment_10.csproj",
         "packagesPath": "C:\\Users\\halziya\\.nuget\\packages\\",
-        "outputPath": "C:\\Hani files\\RM_Stytem_Hani\\Assignment_8\\obj\\",
+        "outputPath": "C:\\Hani files\\Assignment_10\\Assignment_10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halziya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -51,6 +57,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
