@@ -16,9 +16,9 @@ namespace Assignment_10.Controllers
         }
 
         [HttpPost("AddOder/{id}")]
-        public IActionResult Order(int id, Order order, Product product)
+        public IActionResult Order(int id, Order order)
         {
-            obj.OredrProd(id, order, product);
+            obj.OredrProd(id, order);
             return StatusCode(200,"oder plAced");
         }
        

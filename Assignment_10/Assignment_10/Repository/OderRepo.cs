@@ -29,15 +29,15 @@ namespace Assignment_10.Repository
                 return _order;
         }
 
-        public void OredrProd(int id,Order order,Product product)
+        public void OredrProd(int id,Order order)
         {
             //_order.Add(order);
 
-           /* var data = (from p in prod
-                        select p.Product_Id).SingleOrDefault();*/
+            var data = (from p in prod
+                        select p.Product_Id).SingleOrDefault();
 
-                order.OrderId = id;
-            if(order.ProductId ==product.Product_Id)
+            order.ProductId = id;
+            if(order.ProductId ==data)
             {
                 foreach(var k in _order)
                 {

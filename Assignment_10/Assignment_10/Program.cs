@@ -12,9 +12,9 @@ namespace Assignment_10
             // Add services to the container.
 
             builder.Services.AddControllers();
-          /*  builder.Services.AddSingleton<OderRepo>();
+            builder.Services.AddSingleton<OderRepo>();
             builder.Services.AddSingleton<ProductRepo>();
-*/
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
