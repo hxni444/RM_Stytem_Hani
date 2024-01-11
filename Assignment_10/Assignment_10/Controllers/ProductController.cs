@@ -28,5 +28,22 @@ namespace Assignment_10.Controllers
             return Ok(obj1);
         
         }
+        [HttpDelete("DeleteProduct/{id}")]
+        public IActionResult Delete(int id)
+        {
+            obj1.DeleteProduct(id);
+            return Ok("Product deleted");
+        }
+        [HttpGet("Get_Product_By_Catgory/{cat}")]
+        public IActionResult GetByCat(string cat)
+        {
+            
+            return Ok(obj1.GetProductByCatogory(cat));
+        }
+        [HttpGet("get_product_by_name/{name}")]
+        public IActionResult GetByName(string name) 
+        {
+            return Ok(obj1.GetProductByName(name));
+        }
     }
 }

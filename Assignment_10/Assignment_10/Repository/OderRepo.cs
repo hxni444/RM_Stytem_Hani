@@ -19,35 +19,41 @@ namespace Assignment_10.Repository
             }
         }
 
-        public void DeltOrder(string product_name, Order order)
-        {
-            throw new NotImplementedException();
-        }
+       
 
         public List<Order> GetAllOders()
         {
                 return _order;
         }
 
-        public void OredrProd(int id,Order order)
+        public string OredrProd(Order order)
         {
             //_order.Add(order);
 
-            var data = (from p in prod
-                        select p.Product_Id).SingleOrDefault();
+            Product data = (from p in prod
+                        where p.Product_Id == order.ProductId
+                        select p).SingleOrDefault();
 
-            order.ProductId = id;
-            if(order.ProductId ==data)
+
+            if (data == null)
             {
-                foreach(var k in _order)
-                {
-                    _order.Add(order);
-                }
+                return "no such product";
 
-            }  
+            }
+            else
+            {
+                order.Amount = order.Quantity * data.Price;
+                _order.Add(order);
+
+                return "order placed";
+
+            }
+              
+
             
         }
 
+        
     }
 
        

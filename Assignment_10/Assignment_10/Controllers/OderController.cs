@@ -10,17 +10,31 @@ namespace Assignment_10.Controllers
     public class OderController : ControllerBase
     {
         public readonly OderRepo obj;
-        public OderController(OderRepo obj) 
+        public OderController(OderRepo obj)
         {
             this.obj = obj;
         }
 
-        [HttpPost("AddOder/{id}")]
-        public IActionResult Order(int id, Order order)
+        [HttpPost("AddOder")]
+        public IActionResult Order(Order order)
         {
-            obj.OredrProd(id, order);
-            return StatusCode(200,"oder plAced");
+            obj.OredrProd(order);
+            return StatusCode(200, "oder plAced");
         }
+
+        [HttpDelete("delete_order_by_id/{id}")]
+        public IActionResult Delete(int id)
+        {
+            obj.DeltOrder(id);
+            return Ok("Order Deleted");
+        }
+
+        [HttpGet("Get_all_orders")]
+        public IActionResult Get() 
+        {
+            return StatusCode(200, obj.GetAllOders());
+        }
+
        
     }
 }

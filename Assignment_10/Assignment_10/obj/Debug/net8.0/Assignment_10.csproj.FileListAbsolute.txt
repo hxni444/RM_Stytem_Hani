@@ -31,3 +31,36 @@ C:\Hani files\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\refint
 C:\Hani files\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.pdb
 C:\Hani files\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.genruntimeconfig.cache
 C:\Hani files\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\ref\Assignment_10.dll
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\appsettings.Development.json
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\appsettings.json
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\Assignment_10.exe
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\Assignment_10.deps.json
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\Assignment_10.runtimeconfig.json
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\Assignment_10.dll
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\Assignment_10.pdb
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.csproj.AssemblyReference.cache
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.AssemblyInfoInputs.cache
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.AssemblyInfo.cs
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.csproj.CoreCompileInputs.cache
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.MvcApplicationPartsAssemblyInfo.cs
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.MvcApplicationPartsAssemblyInfo.cache
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.sourcelink.json
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\staticwebassets.build.json
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\staticwebassets.development.json
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\staticwebassets\msbuild.Assignment_10.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\staticwebassets\msbuild.build.Assignment_10.props
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Assignment_10.props
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Assignment_10.props
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\scopedcss\bundle\Assignment_10.styles.css
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.csproj.CopyComplete
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.dll
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\refint\Assignment_10.dll
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.pdb
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\Assignment_10.genruntimeconfig.cache
+C:\ceesharp\RM_Stytem_Hani\Assignment_10\Assignment_10\obj\Debug\net8.0\ref\Assignment_10.dll

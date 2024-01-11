@@ -8,9 +8,9 @@ namespace Assignment_10.Repository
         int id = 1000;
         public void AddProduct(Product product)
         {
-           _products.Add(product);
+            product.Product_Id = id;
+            _products.Add(product);
             id++;
-            product.Product_Id=id;
         }
 
         public void DeleteProduct(int productid)
