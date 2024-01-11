@@ -9,23 +9,23 @@ namespace Assignment_10.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        ProductRepo obj;
-        public ProductController(ProductRepo obj)
+       public readonly ProductRepo obj1;
+        public ProductController(ProductRepo obj1)
         {
-            this.obj = obj;
+            this.obj1 = obj1;
         }
 
-        [HttpPost("Add Products")]
+        [HttpPost("AddProducts")]
         public IActionResult Add(Product product)
         {
-            obj.AddProduct(product);
-            return Ok(obj);
+            obj1.AddProduct(product);
+            return Ok(obj1);
         }
-        [HttpPost("Update product")]
+        [HttpPost("UpdateProduct")]
         public IActionResult Edit(Product product) 
         {
-            obj.UpdateProduct(product);
-            return Ok(obj);
+            obj1.UpdateProduct(product);
+            return Ok(obj1);
         
         }
     }

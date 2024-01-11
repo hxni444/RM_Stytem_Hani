@@ -6,7 +6,8 @@ namespace Assignment_10.Repository
     public class OderRepo : IOredrepo
     {
         List<Order> _order = new List<Order>();
-        List<Product> _Prod=ProductRepo._products;
+        List<Product> prod = ProductRepo._products;
+        
         public void DeltOrder(int OrdId)
         {
             foreach (var item in _order)
@@ -31,27 +32,23 @@ namespace Assignment_10.Repository
         public void OredrProd(int id,Order order,Product product)
         {
             //_order.Add(order);
-           
-                
+
+           /* var data = (from p in prod
+                        select p.Product_Id).SingleOrDefault();*/
+
                 order.OrderId = id;
-            if(order.ProductId == product.Product_Id)
+            if(order.ProductId ==product.Product_Id)
             {
                 foreach(var k in _order)
                 {
                     _order.Add(order);
                 }
 
-            }
-                
-
-             
-               
-                
-                            
-                
-                }
-
+            }  
+            
         }
+
+    }
 
        
     }
