@@ -1,9 +1,9 @@
 create database Assignment
 create table Department (Dept_no varchar(30),Dept_name varchar(30), location varchar(30))
 insert into Department values
-('d1' ,'Research' ,'Dallas'),
-('d2' ,'Accounting' ,'Seattle'),
-('d3' ,'Marketing' ,'Dallas')
+('d1' ,'Research','Dallas'),
+('d2' ,'Accounting','Seattle'),
+('d3' ,'Marketing','Dallas')
 
 create table Employee (emp_no varchar(30), emp_fname varchar(30), emp_lname varchar(30), dept_no varchar(30))
 insert into Employee values
@@ -39,7 +39,7 @@ select emp_no from Works_on where project_no='p2' and emp_no<10000 --qst 3
 select emp_no from Works_on where year(enter_date)!=1998 --qst 4
 select emp_no from Works_on where job in ('Analyst','Manager') and project_no ='p1' --qst 5
 select enter_date from Works_on where project_no ='p2' and job is null --qst 6
-select emp_no,emp_lname from Employee where emp_fname like '%tt%' -- qst 7
-select emp_no,emp_fname from Employee where emp_lname like '_[ao]%es'
-
-
+select emp_no,emp_lname from Employee where emp_fname like 'tt' -- qst 7
+select emp_no,emp_fname from Employee where emp_lname like '%[ao]es' --qst 8
+select  e.emp_no,d.location from Employee e join Department d on e.dept_no = d.Dept_no  
+select * from Department where location = 'Seattle'
