@@ -30,3 +30,36 @@ C:\Hani files\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\refint\StudentApi
 C:\Hani files\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.pdb
 C:\Hani files\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
 C:\Hani files\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\ref\StudentApi.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\appsettings.Development.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\appsettings.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\StudentApi.exe
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\StudentApi.deps.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\StudentApi.runtimeconfig.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\StudentApi.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\StudentApi.pdb
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.csproj.AssemblyReference.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.AssemblyInfoInputs.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.AssemblyInfo.cs
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.csproj.CoreCompileInputs.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cs
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.sourcelink.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\staticwebassets\msbuild.StudentApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentApi.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentApi.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentApi.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\scopedcss\bundle\StudentApi.styles.css
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.csproj.CopyComplete
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\refint\StudentApi.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.pdb
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StudentApi\obj\Debug\net8.0\ref\StudentApi.dll

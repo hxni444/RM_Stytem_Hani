@@ -30,3 +30,36 @@ C:\Hani files\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\refint\StaffApi.dll
 C:\Hani files\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.pdb
 C:\Hani files\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.genruntimeconfig.cache
 C:\Hani files\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\ref\StaffApi.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\appsettings.Development.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\appsettings.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\StaffApi.exe
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\StaffApi.deps.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\StaffApi.runtimeconfig.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\StaffApi.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\StaffApi.pdb
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.csproj.AssemblyReference.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.AssemblyInfoInputs.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.AssemblyInfo.cs
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.csproj.CoreCompileInputs.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.MvcApplicationPartsAssemblyInfo.cs
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.sourcelink.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\staticwebassets\msbuild.StaffApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\staticwebassets\msbuild.build.StaffApi.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StaffApi.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StaffApi.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\scopedcss\bundle\StaffApi.styles.css
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.csproj.CopyComplete
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\refint\StaffApi.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.pdb
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\StaffApi.genruntimeconfig.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\StaffApi\obj\Debug\net8.0\ref\StaffApi.dll

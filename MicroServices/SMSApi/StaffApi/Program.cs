@@ -1,4 +1,6 @@
 
+using StaffApi.Repository;
+
 namespace StaffApi
 {
     public class Program
@@ -10,6 +12,7 @@ namespace StaffApi
             // Add services to the container.
 
             builder.Services.AddControllers();
+            builder.Services.AddSingleton<StaffRepo>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

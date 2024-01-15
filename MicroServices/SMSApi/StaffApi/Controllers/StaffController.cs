@@ -23,7 +23,7 @@ namespace StaffApi.Controllers
         public IActionResult Add(Staff staff)
         {
             obj.AdStaff(staff);
-            return Ok(obj);
+            return Ok("Staff Added");
         }
     }
 }

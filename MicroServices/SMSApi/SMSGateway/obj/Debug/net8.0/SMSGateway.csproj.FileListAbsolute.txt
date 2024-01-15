@@ -36,3 +36,42 @@ C:\Hani files\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.pdb
 C:\Hani files\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.genruntimeconfig.cache
 C:\Hani files\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\ref\SMSGateway.dll
 C:\Hani files\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\Ocelot.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\appsettings.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\Ocelot.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\SMSGateway.exe
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\SMSGateway.deps.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\SMSGateway.runtimeconfig.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\SMSGateway.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\SMSGateway.pdb
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\bin\Debug\net8.0\Ocelot.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.csproj.AssemblyReference.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.AssemblyInfoInputs.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.AssemblyInfo.cs
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.csproj.CoreCompileInputs.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.sourcelink.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\staticwebassets\msbuild.SMSGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.SMSGateway.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SMSGateway.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SMSGateway.props
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\scopedcss\bundle\SMSGateway.styles.css
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.csproj.CopyComplete
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\refint\SMSGateway.dll
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.pdb
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\SMSGateway.genruntimeconfig.cache
+C:\ceesharp\RM_Stytem_Hani\MicroServices\SMSApi\SMSGateway\obj\Debug\net8.0\ref\SMSGateway.dll
