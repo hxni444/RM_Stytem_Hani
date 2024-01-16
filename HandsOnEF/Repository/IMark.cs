@@ -12,16 +12,21 @@ namespace HandsOnEF.Repository
         public void Add(Mark entity)
         {
             context.marks.Add(entity);
+            context.SaveChanges();
+
         }
 
         public void Delete(int id)
         {
             Mark Mrk = context.marks.SingleOrDefault(s =>s.StudentId == id);
             context.marks.Remove(Mrk);
+            context.SaveChanges();
+
         }
 
         public List<Mark> GetALl()
         {
+
            return context.marks.ToList();   
         }
 
@@ -35,6 +40,7 @@ namespace HandsOnEF.Repository
         public void Update(Mark entity)
         {
             context.marks.Update(entity);
+            context.SaveChanges();
         }
     }
 }

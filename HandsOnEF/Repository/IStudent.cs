@@ -14,12 +14,16 @@ namespace HandsOnEF.Repository
         public void Add(Student students)
         {
             StObj.students.Add(students);
+            StObj.SaveChanges();
+
         }
 
         public void Delete(int id)
         {
            Student st= StObj.students.SingleOrDefault(s => s.Id == id);
             StObj.students.Remove(st);
+            StObj.SaveChanges();
+
         }
 
         public List<Student> GetALl()
@@ -36,6 +40,8 @@ namespace HandsOnEF.Repository
         public void Update(Student entity)
         {
             StObj.students.Update(entity);
+            StObj.SaveChanges();
+
         }
     }
 }

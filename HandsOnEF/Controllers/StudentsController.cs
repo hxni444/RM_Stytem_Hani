@@ -18,8 +18,27 @@ namespace HandsOnEF.Controllers
         [HttpGet("Get_All_Students")]
         public IActionResult GetStudents()
         {
+            List<Student> li = obj.GetALl();
+            return Ok(li);
+        }
+        [HttpPost("Add_Students")]
+        public IActionResult PostStudents(Student student)
+        {
+            obj.Add(student);
+            return Ok(student);
+        }
 
-            return Ok(obj.GetALl());
+        [HttpDelete("Delete_student")]
+        public IActionResult DeleteStudents(int id)
+        {
+            obj.Delete(id);
+            return Ok("Student Deleted");
+        }
+
+        [HttpGet("Get_Student_By_Id")]
+        public IActionResult GetStudent(int id)
+        {
+            return Ok(obj.GetById(id));
         }
 
     }

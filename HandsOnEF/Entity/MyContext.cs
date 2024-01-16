@@ -10,7 +10,9 @@ namespace HandsOnEF.Entity
         public DbSet<Staff> staffs  { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=RMPLC4CE83617ZZ\SQL2022;Initial Catalog=SMSDBSE;User ID=sa;Password=Password123.;Trust Server Certificate=True");
+            //optionsBuilder.UseSqlServer(@"Data Source=RMPLC4CE83617ZZ\SQL2022;Initial Catalog=SMSDBSE;User ID=sa;Password=Password123.;Trust Server Certificate=True");
+            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-12J1PAR\SQLEXPRESS;Initial Catalog=PostroDb;Integrated Security=True;Trust Server Certificate=True");
+
         }
     }
 }
