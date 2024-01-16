@@ -7,10 +7,10 @@ insert into Department values
 
 create table Employee (emp_no varchar(30), emp_fname varchar(30), emp_lname varchar(30), dept_no varchar(30))
 insert into Employee values
-('25348',' Matthew' ,'Smith',' d3'),
-('10102',' Ann' ,'Jones',' d3'),
-('18316',' John' ,'Barrimore',' d1'),
-('29346',' James' ,'James',' d2')
+('25348',' Matthew' ,'Smith','d3'),
+('10102',' Ann' ,'Jones','d3'),
+('18316',' John' ,'Barrimore','d1'),
+('29346',' James' ,'James','d2')
 
 create table Project (project_no varchar(30), project_name varchar(30), Budget int )
 insert into Project values
@@ -39,7 +39,14 @@ select emp_no from Works_on where project_no='p2' and emp_no<10000 --qst 3
 select emp_no from Works_on where year(enter_date)!=1998 --qst 4
 select emp_no from Works_on where job in ('Analyst','Manager') and project_no ='p1' --qst 5
 select enter_date from Works_on where project_no ='p2' and job is null --qst 6
-select emp_no,emp_lname from Employee where emp_fname like 'tt' -- qst 7
-select emp_no,emp_fname from Employee where emp_lname like '%[ao]es' --qst 8
-select  e.emp_no,d.location from Employee e join Department d on e.dept_no = d.Dept_no  
-select * from Department where location = 'Seattle'
+select emp_no,emp_lname from Employee where emp_fname like '%t%t%' -- qst 7
+select emp_no,emp_fname from Employee where emp_lname like '_[ao]%es' --qst 8
+select  e.emp_no,d.location from Employee e join Department d on e.dept_no = d.Dept_no where d.location='Seattle'  -- qst 9
+select e.emp_fname,e.emp_lname from Employee e join Works_on w on w.emp_no=e.emp_no where w.enter_date= '1998.01.04' --QST 10
+select location from Department group by location --qst 11
+select max(emp_no) As 'biggest NO' from Employee --qst 12
+
+
+
+
+
