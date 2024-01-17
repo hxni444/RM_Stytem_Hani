@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HandOnApiWithEF_CodeFirst.props" />
+</Project>
