@@ -2,12 +2,12 @@
 
 namespace HandsOnEF.Repository
 {
-    public class IStudent : IRepository<Student>
+    public class StudentRepo : IRepository<Student>
     {
         public MyContext StObj;
-        public IStudent()
+        public StudentRepo(MyContext StObj)
         {
-            StObj = new MyContext();
+            this.StObj = StObj;
         }
 
 

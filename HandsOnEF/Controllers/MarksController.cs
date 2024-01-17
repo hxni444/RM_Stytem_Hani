@@ -9,8 +9,8 @@ namespace HandsOnEF.Controllers
     [ApiController]
     public class MarksController : ControllerBase
     {
-        public IMark obj;
-        public MarksController(IMark obj)
+        public MarkRepo obj;
+        public MarksController(MarkRepo obj)
         {
             this.obj = obj;
         }
@@ -33,8 +33,8 @@ namespace HandsOnEF.Controllers
         [HttpGet("Get_all_Marks")]
         public IActionResult GetAllMarks()
         {
-            List<Mark> li = obj.GetALl();
-            return Ok(li);
+           
+            return Ok(obj.GetALl());
         }
 
 

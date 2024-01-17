@@ -1,4 +1,5 @@
 
+using HandsOnEF.Entity;
 using HandsOnEF.Repository;
 
 namespace HandsOnEF
@@ -12,8 +13,10 @@ namespace HandsOnEF
             // Add services to the container.
 
             builder.Services.AddControllers();
-            builder.Services.AddSingleton<IStudent>();
-            builder.Services.AddSingleton<IMark>();
+            builder.Services.AddTransient<StudentRepo>();
+            builder.Services.AddTransient<MarkRepo>();
+            builder.Services.AddTransient<StaffRepo>();
+            builder.Services.AddDbContext<MyContext>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

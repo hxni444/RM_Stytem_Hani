@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HandsOnEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7172184bc93be655ec2e17491b25c78732b06203")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e58cab115ec1c943be5d797787c2d7b7bab87d00")]
 [assembly: System.Reflection.AssemblyProductAttribute("HandsOnEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HandsOnEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

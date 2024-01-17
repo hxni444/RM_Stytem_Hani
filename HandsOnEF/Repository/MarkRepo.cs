@@ -2,12 +2,12 @@
 
 namespace HandsOnEF.Repository
 {
-    public class IMark : IRepository<Mark>
+    public class MarkRepo : IRepository<Mark>
     {
         public MyContext context;
-        public IMark()
+        public MarkRepo(MyContext context)
         {
-            context = new MyContext();
+           this.context = context;
         }
         public void Add(Mark entity)
         {
@@ -41,6 +41,13 @@ namespace HandsOnEF.Repository
         {
             context.marks.Update(entity);
             context.SaveChanges();
+        }
+        public List<StudentMark> GetStudentMarks(int id)
+        {
+            List<StudentMark> studentMarks = from s in context.students                                        
+                                             join m in context.marks on s.Id equals m.StudentId
+                                             where 
+
         }
     }
 }

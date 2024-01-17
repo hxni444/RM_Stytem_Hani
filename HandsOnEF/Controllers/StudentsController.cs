@@ -9,8 +9,8 @@ namespace HandsOnEF.Controllers
     [ApiController]
     public class StudentsController : ControllerBase
     {
-        IStudent obj;
-        public StudentsController(IStudent obj)
+        StudentRepo obj;
+        public StudentsController(StudentRepo obj)
         {
             this.obj = obj;
         }
@@ -39,6 +39,12 @@ namespace HandsOnEF.Controllers
         public IActionResult GetStudent(int id)
         {
             return Ok(obj.GetById(id));
+        }
+        [HttpPut("Update_student")]
+        public IActionResult PutStudent(Student student)
+        {
+            obj.Update(student);
+            return Ok(student);
         }
 
     }
