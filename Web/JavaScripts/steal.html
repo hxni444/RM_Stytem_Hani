@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+            #container{
+                display: flex;
+                justify-content:center ;
+                gap: 1rem;
+            }
+            h3{
+                font-size: 4rem;
+                margin: 0;
+            }
+            h4{
+                font-size: 2rem;
+                
+            }
+    </style>
+</head>
+<body>
+    
+    <center>
+        <h3>TRUST GAME</h3>
+        <H4>PRIZE MONEY</H4>
+        <h1>10000000</h1>
+    </center>
+      
+ 
+    <div id="container">
+        <div > <button id="steal" onclick="addval1(); gamelog()">STEAL</button></div>
+        <div><BUTTON id="split" >SPLIT</BUTTON></div>
+    </div>
+
+    <p id="result">Player 1 turn</p>
+
+    <script>
+        
+       
+        let  rslt1 = -1 
+      
+        
+           
+      // document.getElementById('steal').onclick = function() {addval1(); gamelog() };
+    
+      //  document.querySelector('#split').onclick = function() {addval2(); gamelog()};       
+     
+
+        function addval1()
+        {        
+          rslt1++
+         
+        }
+   
+        // function addval2()
+        // {
+           
+        //    rslt1=rslt1+2
+        //    return rslt1
+        // }
+        
+        function gamelog()
+        {
+        // let  rlt = addval1()
+        
+          console.log(rslt1)
+            
+
+            
+            if(rlt==0)
+            document.querySelector('#result').innerHTML='Player 2 turn'
+        else if(rlt==3)
+        {
+            document.querySelector('#result').innerHTML = 'player 1 got it all'
+            document.querySelector('h1').innerHTML = '10000000'
+        }
+        else if(rlt==4)
+        {
+            document.querySelector('#result').innerHTML = 'win'
+            document.querySelector('h1').innerHTML = `each got ${10000000/2}`
+
+        }
+        else if(rlt==6)
+        {
+            document.querySelector('#result').innerHTML = 'both got noting'
+            document.querySelector('h1').innerHTML = `0`
+        }
+        
+        }
+        
+        
+
+       
+
+    </script>
+</body>
+</html>
