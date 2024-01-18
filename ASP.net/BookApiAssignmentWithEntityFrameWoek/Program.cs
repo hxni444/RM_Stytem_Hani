@@ -1,4 +1,5 @@
 
+using BookApiAssignmentWithEntityFrameWoek.Enity;
 using BookApiAssignmentWithEntityFrameWoek.Repository;
 
 namespace BookApiAssignmentWithEntityFrameWoek
@@ -13,6 +14,7 @@ namespace BookApiAssignmentWithEntityFrameWoek
 
             builder.Services.AddControllers();
             builder.Services.AddTransient<BookRepo>();
+            builder.Services.AddDbContext<MyContext>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

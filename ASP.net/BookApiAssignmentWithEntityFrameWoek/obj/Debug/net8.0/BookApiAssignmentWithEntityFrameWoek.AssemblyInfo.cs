@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookApiAssignmentWithEntityFrameWoek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d613fac5105d5f1a4b6f6c4b30092962ca27e747")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookApiAssignmentWithEntityFrameWoek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookApiAssignmentWithEntityFrameWoek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

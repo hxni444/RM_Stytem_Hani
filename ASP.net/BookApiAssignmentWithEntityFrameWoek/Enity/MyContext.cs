@@ -13,7 +13,7 @@ namespace BookApiAssignmentWithEntityFrameWoek.Enity
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
 
-            optionsBuilder.UseSqlServer(configobj.GetConnectionString("myconnection"));
+            optionsBuilder.UseSqlServer(configobj.GetConnectionString("MyCon"));
             //optionsBuilder.UseSqlServer(@"Data Source=RMPLC4CE83617ZZ\SQL2022;Initial Catalog=BookBD;Integrated Security=True;Encrypt=True;Trust Server Certificate=True");
          
         }
