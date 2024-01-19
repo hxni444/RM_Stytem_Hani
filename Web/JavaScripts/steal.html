@@ -13,10 +13,58 @@
             h3{
                 font-size: 4rem;
                 margin: 0;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             }
             h4{
                 font-size: 2rem;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                margin: 0;
                 
+            }
+            #result{
+                text-align: center;
+            }
+            h1{
+                font-size: 8rem;
+     
+            }
+            #steal,#split{
+                padding: 1rem 1.5rem 1rem 1.5rem;
+                border-radius: 0.2rem;
+                font-weight:1000;
+                cursor: pointer;
+            }
+           #split:active{
+                border-style: solid;
+                border-width: 1px;
+            }
+            #steal:active{
+                border-style: solid;
+                border-width: 1px;
+            }
+
+        
+            #split:hover{
+                background-color: rgb(26, 146, 2);
+               
+            }
+            #steal:hover{
+                background-color: rgb(199, 0, 0);
+            }
+
+
+
+            #steal{
+                border: 0;
+                background-color: red;
+                
+            }
+            #split{
+                border: 0;
+                background-color: rgb(32, 194, 0);
+            }
+            p{
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             }
     </style>
 </head>
@@ -30,70 +78,42 @@
       
  
     <div id="container">
-        <div > <button id="steal" onclick="addval1(); gamelog()">STEAL</button></div>
-        <div><BUTTON id="split" >SPLIT</BUTTON></div>
+        <div > <button id="steal" onclick=" rslt1++; gamelog()">STEAL</button></div>
+        <div><BUTTON id="split"  onclick=" rslt1=rslt1-1; gamelog()" >SPLIT</BUTTON></div>
     </div>
 
     <p id="result">Player 1 turn</p>
 
-    <script>
-        
-       
-        let  rslt1 = -1 
-      
-        
-           
-      // document.getElementById('steal').onclick = function() {addval1(); gamelog() };
-    
-      //  document.querySelector('#split').onclick = function() {addval2(); gamelog()};       
-     
-
-        function addval1()
-        {        
-          rslt1++
-         
-        }
-   
-        // function addval2()
-        // {
-           
-        //    rslt1=rslt1+2
-        //    return rslt1
-        // }
-        
+    <script>     
+        let  rslt1 = null
         function gamelog()
         {
-        // let  rlt = addval1()
-        
-          console.log(rslt1)
-            
-
-            
-            if(rlt==0)
+         console.log(rslt1)
+            if(rslt1==undefined)
             document.querySelector('#result').innerHTML='Player 2 turn'
-        else if(rlt==3)
+        else if(rslt1==0)
         {
-            document.querySelector('#result').innerHTML = 'player 1 got it all'
+            document.querySelector('#result').innerHTML = 'STEALED'
             document.querySelector('h1').innerHTML = '10000000'
+            document.querySelector('body').style.backgroundColor="grey"
         }
-        else if(rlt==4)
+        else if(rslt1==-2)
         {
             document.querySelector('#result').innerHTML = 'win'
-            document.querySelector('h1').innerHTML = `each got ${10000000/2}`
+            document.querySelector('h1').innerHTML = `Each Got 50,0000`
+            document.querySelector('h1').style.color='white'
+            document.querySelector('body').style.backgroundColor=" rgb(32, 194, 0)"
 
         }
-        else if(rlt==6)
+        else if(rslt1==2)
         {
             document.querySelector('#result').innerHTML = 'both got noting'
             document.querySelector('h1').innerHTML = `0`
+            document.querySelector('body').style.backgroundColor="red"
         }
         
         }
         
-        
-
-       
-
     </script>
 </body>
 </html>

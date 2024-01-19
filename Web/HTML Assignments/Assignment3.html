@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="https://google.com" style="border: solid black; width: 350px;">
+        <table>
+            <tr>
+                <td>
+                    Name
+                </td>
+                <td>
+                    <input type="text" required pattern="[A-Z]{30}" name="" id="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Age
+                </td>
+                <td>
+                    <input type="number" required pattern="[0-9]{2}" name="" id="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Mobile
+                </td>
+                <td>
+                    <input type="number" required pattern="[6789]{1}[0-9]{9}" name="" id="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Mobile
+                </td>
+                <td>
+                    <input type="email" required  name="" id="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Date of birth
+                </td>
+                <td>
+                    <input type="date" required  name="" id="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Website
+                </td>
+                <td>
+                    <input type="url" required name="" id="">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="submit" >Submit</button>
+                </td>
+            </tr>
+        </table>
+
+    </form>
+
+    <section style="margin-top: 30px;">
+        <p>Exercise B</p>
+        <span>country</span><input type="text" id="t1" list="source">
+        <datalist id="source">
+            <option value="India"></option>
+            <option value="US"></option>
+            <option value="Germany"></option>
+            <option value="China"></option>
+            <option value="UK"></option>
+            <option value="Sri Lanka"></option>
+            <option value="Nepal"></option>
+            <option value="Japan"></option>
+            <option value="Pakisthan"></option>
+    
+        </datalist>
+    </section>
+
+</body>
+</html>
