@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            height: 100vh;
+        }
+        table{
+            background-color: rgb(190, 190, 190);
+            border-spacing: 10px;
+            width: 300px;
+        }
+       input{
+           margin-top: 0.2rem;
+          
+        }
+        form,h1,hr{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        
+        }
+    </style>
+</head>
+<body>
+    <h1>Input Type Demo</h1>
+    <hr width="300px" >
+    <form action="" >
+        <table>
+            <tr>
+                <td aria-required="true">Name</td>
+                <td><input type="text" required pattern="\D[A-Z]+" title="Type name in capital letters"></td>
+            </tr>
+            <tr>
+                <td>age</td>
+                <td> <input type="number" min="18" max="50"></td>   
+            </tr>
+            <tr>
+                <td>Contact Nmber</td>
+                <td><input type="text" required pattern="[6789]{1}[0-9]{9}"></td>
+            </tr>
+            <tr>
+                <td>E-mail</td>
+                <td><input type="mail" required></td>
+            </tr>
+            <tr>
+                <td>Date Of Birth</td>
+                <td><input type="date" name="date" id=""></td>
+            </tr>
+            <tr>
+                <td>website URL</td>
+                <td><input type="url"></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Submit"></td>
+            </tr>
+
+        </table>
+    </form>
+</body>
+</html>
