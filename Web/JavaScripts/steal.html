@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <style>
             #container{
                 display: flex;
@@ -64,7 +67,9 @@
                 background-color: rgb(32, 194, 0);
             }
             p{
-                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                font-family: PT Sans;
+                font-size: 3rem;
+                font-weight: 700;
             }
     </style>
 </head>
@@ -84,16 +89,33 @@
 
     <p id="result">Player 1 turn</p>
 
-    <script>     
+    <script> 
+    let name1 = prompt('Enter Player 1 name:','player 1')
+    let name2 = prompt('Enter Player 2 name:','player 2')        
         let  rslt1 = null
+        let stealer='';
         function gamelog()
-        {
-         console.log(rslt1)
-            if(rslt1==undefined)
+        { 
+            let x= rslt1;
+            
+            if(x==1){
+              stealer = name1 ;
+            }
+            
+         console.log(name)
+            if(rslt1==1|| rslt1 == -1)
             document.querySelector('#result').innerHTML='Player 2 turn'
         else if(rslt1==0)
         {
-            document.querySelector('#result').innerHTML = 'STEALED'
+            if(stealer=='')
+            {
+                document.querySelector('#result').innerHTML = name2 + ' STEALED';
+                
+            }
+            else {
+                document.querySelector('#result').innerHTML = stealer + ' STEALED'
+            }
+            
             document.querySelector('h1').innerHTML = '10000000'
             document.querySelector('body').style.backgroundColor="grey"
         }

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="www.google.com">
+    <table>
+        <tr>
+            <td>
+            <label  for="name">Enter Namem:</label>
+             </td>
+             <td><input type="text" id="name"></td>
+        </tr>
+        <tr >
+            <td>
+            <label  for="password">Enter Password:</label>
+             </td>
+             <td><input type="text" id="pass"></td>
+        </tr>
+        <tr>
+            <td colspan="2"><input type="submit" onclick="validate()"></td>
+        </tr>
+    </table>
+    <p id="valMssg"></p>
+    </form>
+    <script>
+         console.log(document.querySelector('#name').value);
+        function validate()
+        {
+           
+            if(document.querySelector('#name').value=='')
+            {
+                document.querySelector('#valMssg').innerHTML='Enter Name';
+                event.preventDefault();
+            }
+            else if(document.querySelector('#pass').value=='')
+            {
+                document.querySelector('#valMssg').innerHTML='Enter Name';
+                event.preventDefault();
+            }
+        }
+    </script>
+</body>
+</html>
