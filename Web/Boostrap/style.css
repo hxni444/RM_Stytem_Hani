@@ -1,0 +1,18 @@
+hr{
+    margin: 0;
+}
+.navbar{
+    padding: 0;
+}
+body{
+    background-image: url(pap.jpg);
+}
+.cstmCont{
+    font-size: 4rem;
+}
+h1{
+    font-size: 4.5rem;
+}
+.navbar-nav a{
+    margin-right: 4rem;
+}
