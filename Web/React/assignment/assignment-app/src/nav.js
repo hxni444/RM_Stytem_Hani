@@ -1,21 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-        
-        <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <center>
-        <h1 class="name">Hani Al Ziya</h1>
-    </center>
-    
-    <header class="container">
-     <hr>
+const nav=()=>{
+    return (
+        <div>
+            <header class="container">
+     <hr/>
         <nav class="navbar navbar-expand-lg ">
             <div class="container">
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -56,30 +43,10 @@
             
             </div>
           </nav>
-          <hr>
-    </header>
-    <main class="text-center wrapper">
-
-        <div class="container">
-          <div class="d-sm-flex justify-content-between my-5">
-            <div class=" text-sm-start pt-5">
-              <h1 class="content">I AM A<br> DEVELOPER</h1>
-              <button class="Resume_btn"><img src="doenload icon.svg" style="width: 2rem; margin-right: 1rem;"alt="">Resume</button>
-
-            </div>
-
-           
-          
-            <img src="bullseye.svg" class="img-fluid  mt-4 px-5 " style="width: 35rem;">
-            </div>
-
-            </div>
-            
+          <hr/>
+            </header>
         </div>
-    </main>
-    <footer class="bg-dark text-white text-center d-flex footer justify-content-center align-items-center">
-        <p style="margin: 0;">copyright &copy; 2024</p>
-    </footer>
 
-</body>
-</html>
+    )
+}
+export default nav

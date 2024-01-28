@@ -1,8 +1,6 @@
-hr{
-    margin: 0;
-}
-.navbar{
-    padding: 0;
+li{
+    font-family: Roboto mono;
+    font-weight: 500;
 }
 body{
     background-image: url(pap.jpg);
@@ -13,6 +11,40 @@ body{
 h1{
     font-size: 4.5rem;
 }
-.navbar-nav a{
-    margin-right: 4rem;
+html, body {
+    height: 100%;
+}
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -60px; /* Height of the footer */
+}
+.footer {
+    height: 60px; /* Height of the footer */
+    
+}
+hr{
+    margin: 0;
+    border-width: 0.2rem;
+    background-color: black;
+    border-color: black;
+
+}
+.Resume_btn{
+    padding:  0.5rem 2rem;
+    background-color:#4CC9C1;
+    border: none;
+    box-shadow: 0.4rem 0.4rem 0px rgba(0, 0, 0, 0.224);
+}
+.content{
+    letter-spacing: 1rem;
+    font-family: Roboto mono;
+    font-weight: 500;
+}
+.progress{
+    
+    background-color:#001b1f;
+}
+.name{
+    font-family: Mondia;
+    font-weight: 800;
 }
