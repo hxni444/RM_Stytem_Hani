@@ -3,7 +3,8 @@ li{
   font-weight: 500;
 }
 body{
-  background-image: url(C:\ceesharp\RM_Stytem_Hani\Web\React\assignment/assignment-app/public/pap.jpg);
+  /* background-image: url(C:\ceesharp\RM_Stytem_Hani\Web\React\assignment/assignment-app/public/pap.jpg); */
+  background-image: url(C:\HaniFiles\RM_Stytem_Hani\Web\React\assignment\assignment-app\public\pap.jpg);
 }
 .cstmCont{
   font-size: 4rem;
